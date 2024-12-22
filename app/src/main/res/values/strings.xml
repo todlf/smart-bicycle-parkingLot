@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IT Bike map</string>
+    <string name="enter_search">"검색어를 입력해 주세요."</string>
+    <string name="rules">"1.자전거 외에 압력센서에 압력을 가하지 마세요.\n 2.블루투스를 꼭 연결하고 주차하세요.\n 3.주차 가능시간은 최대 2일입니다.\n 4.주차 대수는 인당 최대 1대입니다. \n 5.경고 메시지를 받을 시 신속히 자전거를 \n     뺴주시기 바랍니다\n    (24시간 내에 안 뺼시 견인 주의)"</string>
+</resources>
